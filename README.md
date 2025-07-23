@@ -22,4 +22,5 @@ This is a Python-based GUI application built using the `tkinter` library. The pr
 
 1. **Clone the repository:**
    ```bash
-   git clone # 🐍 Tkinter Python GUI Project
+   git clone https://github.com/Harshitgp/upskillcampus.git
+   
